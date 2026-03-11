@@ -6,40 +6,32 @@
 </h1>
 
 <p align="center">
-  Philosophers is a C project focused on philosophers.
+  A C implementation of the classic Dining Philosophers problem. A 42 school project exploring threading, mutexes, and semaphores to solve synchronization issues.
 </p>
 
 <p align="center">
-<a href="https://github.com/jdecorte-be/philosophers">
-    <img src="https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white&labelColor=000000"
-         alt="Language C">
-  </a>
 <a href="https://github.com/jdecorte-be/philosophers/actions/workflows/c-cpp.yml">
     <img src="https://img.shields.io/badge/Build-passing-success?logo=githubactions&logoColor=white&labelColor=000000"
          alt="Build passing">
   </a>
-<a href="https://github.com/jdecorte-be/philosophers/stargazers">
-    <img src="https://img.shields.io/badge/Stars-GitHub%20Stars-yellow?logo=github&logoColor=white&labelColor=000000"
-         alt="Stars GitHub Stars">
+<a href="https://www.42.fr/">
+    <img src="https://img.shields.io/badge/42%20School-Philosophers-00BABC?logo=42&logoColor=white&labelColor=000000"
+         alt="42 School Philosophers">
   </a>
-<a href="https://github.com/jdecorte-be/philosophers/network/members">
-    <img src="https://img.shields.io/badge/Forks-GitHub%20Forks-blue?logo=github&logoColor=white&labelColor=000000"
-         alt="Forks GitHub Forks">
-  </a>
-</p>
-
-<p align="center">
-<a href="https://github.com/jdecorte-be/philosophers/commits/main">
-    <img src="https://img.shields.io/badge/Last%20Commit-dynamic-informational?logo=git&logoColor=white&labelColor=000000"
-         alt="Last Commit dynamic">
+  <a href="https://github.com/jdecorte-be/philosophers">
+    <img src="https://img.shields.io/badge/topic-42--school-66D9EF?logo=github&logoColor=white&labelColor=000000"
+         alt="philosophers 42-school">
   </a>
   <a href="https://github.com/jdecorte-be/philosophers">
     <img src="https://img.shields.io/badge/topic-c-66D9EF?logo=github&logoColor=white&labelColor=000000"
          alt="philosophers c">
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/jdecorte-be/philosophers">
-    <img src="https://img.shields.io/badge/topic-philosophers-66D9EF?logo=github&logoColor=white&labelColor=000000"
-         alt="philosophers philosophers">
+    <img src="https://img.shields.io/badge/topic-concurrency-66D9EF?logo=github&logoColor=white&labelColor=000000"
+         alt="philosophers concurrency">
   </a>
   <a href="https://github.com/jdecorte-be/philosophers/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-GPL--3.0-AE81FF?labelColor=000000"
@@ -52,6 +44,14 @@
   <a href="https://github.com/jdecorte-be/philosophers/network/members">
     <img src="https://img.shields.io/github/forks/jdecorte-be/philosophers?logo=github&logoColor=white&labelColor=000000&color=66D9EF"
          alt="philosophers forks">
+  </a>
+  <a href="https://github.com/jdecorte-be/philosophers/issues">
+    <img src="https://img.shields.io/github/issues/jdecorte-be/philosophers?logoColor=white&labelColor=000000&color=orange"
+         alt="philosophers issues">
+  </a>
+  <a href="https://github.com/jdecorte-be/philosophers/commits">
+    <img src="https://img.shields.io/github/last-commit/jdecorte-be/philosophers?logo=clock&logoColor=white&labelColor=000000&color=66D9EF"
+         alt="philosophers last commit">
   </a>
 </p>
 <p align="center">
