@@ -62,8 +62,8 @@
 </p>
 </header>
 
-Philosophers an individual project at [42](https://www.42.fr/42-network/) about introduction to the basics of process threading, and how work on the same memory space.
-And learn about mutexes, semaphores, and shared memory.
+---
+
 
 ## Introduction
 
