@@ -15,23 +15,23 @@
          alt="build passing">
   </a>
 <a href="https://github.com/jdecorte-be/philosophers">
-    <img src="https://img.shields.io/badge/lang-C-A8B9CC?logo=c&logoColor=white&labelColor=000000"
-         alt="lang C">
+    <img src="https://img.shields.io/badge/language-C-A8B9CC?logo=c&logoColor=white&labelColor=000000"
+         alt="language C">
   </a>
 <a href="https://github.com/jdecorte-be/philosophers/stargazers">
-    <img src="https://img.shields.io/badge/stars-count-FFAC45?logo=github&logoColor=white&labelColor=000000"
-         alt="stars count">
+    <img src="https://img.shields.io/badge/stars-0-yellow?logo=github&logoColor=white&labelColor=000000"
+         alt="stars 0">
   </a>
 <a href="https://github.com/jdecorte-be/philosophers/network/members">
-    <img src="https://img.shields.io/badge/forks-count-0882C5?logo=git&logoColor=white&labelColor=000000"
-         alt="forks count">
+    <img src="https://img.shields.io/badge/forks-0-blue?logo=github&logoColor=white&labelColor=000000"
+         alt="forks 0">
   </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/jdecorte-be/philosophers/commits/main">
-    <img src="https://img.shields.io/badge/last%20commit-date-238636?logo=git&logoColor=white&labelColor=000000"
-         alt="last commit date">
+<a href="https://github.com/jdecorte-be/philosophers/issues">
+    <img src="https://img.shields.io/badge/issues-0-green?logo=github&logoColor=white&labelColor=000000"
+         alt="issues 0">
   </a>
   <a href="https://github.com/jdecorte-be/philosophers">
     <img src="https://img.shields.io/badge/topic-aligncenter-66D9EF?logo=github&logoColor=white&labelColor=000000"
@@ -45,13 +45,13 @@
     <img src="https://img.shields.io/badge/topic-h1-66D9EF?logo=github&logoColor=white&labelColor=000000"
          alt="philosophers h1">
   </a>
+  <a href="https://github.com/jdecorte-be/philosophers/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-GPL--3.0-AE81FF?labelColor=000000"
+         alt="philosophers license">
+  </a>
   <a href="https://github.com/jdecorte-be/philosophers/stargazers">
     <img src="https://img.shields.io/github/stars/jdecorte-be/philosophers?logo=star&logoColor=white&labelColor=000000&color=E6DB74"
          alt="philosophers stars">
-  </a>
-  <a href="https://github.com/jdecorte-be/philosophers/network/members">
-    <img src="https://img.shields.io/github/forks/jdecorte-be/philosophers?logo=github&logoColor=white&labelColor=000000&color=66D9EF"
-         alt="philosophers forks">
   </a>
 </p>
 <p align="center">
