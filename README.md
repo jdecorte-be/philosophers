@@ -10,13 +10,28 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/jdecorte-be/philosophers/actions/workflows/c-cpp.yml">
-    <img src="https://img.shields.io/badge/Build-passing-success?logo=githubactions&logoColor=white&labelColor=000000"
-         alt="Build passing">
-  </a>
 <a href="https://www.42.fr/">
-    <img src="https://img.shields.io/badge/42%20School-Philosophers-00BABC?logo=42&logoColor=white&labelColor=000000"
-         alt="42 School Philosophers">
+    <img src="https://img.shields.io/badge/42%20Project-philosophers-00BABC?logo=42&logoColor=white&labelColor=000000"
+         alt="42 Project philosophers">
+  </a>
+<a href="https://github.com/jdecorte-be/philosophers">
+    <img src="https://img.shields.io/badge/Language-C-A8B9CC?logo=c&logoColor=white&labelColor=000000"
+         alt="Language C">
+  </a>
+<a href="https://github.com/jdecorte-be/philosophers/actions/workflows/c-cpp.yml">
+    <img src="https://img.shields.io/badge/Build-CI%2FCD-2088FF?logo=githubactions&logoColor=white&labelColor=000000"
+         alt="Build CI/CD">
+  </a>
+<a href="https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)">
+    <img src="https://img.shields.io/badge/Core%20Concept-Multithreading-blue?logo=c&logoColor=white&labelColor=000000"
+         alt="Core Concept Multithreading">
+  </a>
+</p>
+
+<p align="center">
+<a href="https://github.com/42School/norminette">
+    <img src="https://img.shields.io/badge/Code%20Style-The%20Norm-00BABC?logo=42&logoColor=white&labelColor=000000"
+         alt="Code Style The Norm">
   </a>
   <a href="https://github.com/jdecorte-be/philosophers">
     <img src="https://img.shields.io/badge/topic-42--school-66D9EF?logo=github&logoColor=white&labelColor=000000"
@@ -26,9 +41,6 @@
     <img src="https://img.shields.io/badge/topic-c-66D9EF?logo=github&logoColor=white&labelColor=000000"
          alt="philosophers c">
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/jdecorte-be/philosophers">
     <img src="https://img.shields.io/badge/topic-concurrency-66D9EF?logo=github&logoColor=white&labelColor=000000"
          alt="philosophers concurrency">
@@ -40,18 +52,6 @@
   <a href="https://github.com/jdecorte-be/philosophers/stargazers">
     <img src="https://img.shields.io/github/stars/jdecorte-be/philosophers?logo=star&logoColor=white&labelColor=000000&color=E6DB74"
          alt="philosophers stars">
-  </a>
-  <a href="https://github.com/jdecorte-be/philosophers/network/members">
-    <img src="https://img.shields.io/github/forks/jdecorte-be/philosophers?logo=github&logoColor=white&labelColor=000000&color=66D9EF"
-         alt="philosophers forks">
-  </a>
-  <a href="https://github.com/jdecorte-be/philosophers/issues">
-    <img src="https://img.shields.io/github/issues/jdecorte-be/philosophers?logoColor=white&labelColor=000000&color=orange"
-         alt="philosophers issues">
-  </a>
-  <a href="https://github.com/jdecorte-be/philosophers/commits">
-    <img src="https://img.shields.io/github/last-commit/jdecorte-be/philosophers?logo=clock&logoColor=white&labelColor=000000&color=66D9EF"
-         alt="philosophers last commit">
   </a>
 </p>
 <p align="center">
