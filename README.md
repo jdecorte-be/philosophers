@@ -1,6 +1,66 @@
+<header>
 <h1 align="center">
-	📖 Philosophers
+  <a href="https://github.com/jdecorte-be/philosophers"><img src=".assets/banner.png" alt="philosophers" ></a>
+  philosophers
+  <br>
 </h1>
+
+<p align="center">
+  <h1 align="center"> is a C project focused on philosophers, h1, aligncenter.
+</p>
+
+<p align="center">
+<a href="https://github.com/jdecorte-be/philosophers/actions/workflows/c-cpp.yml">
+    <img src="https://img.shields.io/badge/Build-status-238636?logo=github%20actions&logoColor=white&labelColor=000000"
+         alt="Build status">
+  </a>
+<a href="https://github.com/jdecorte-be/philosophers">
+    <img src="https://img.shields.io/badge/Lang-C-555555?logo=c&logoColor=white&labelColor=000000"
+         alt="Lang C">
+  </a>
+<a href="https://github.com/jdecorte-be/philosophers/stargazers">
+    <img src="https://img.shields.io/badge/Stars-github%20stars-yellow?logo=github&logoColor=white&labelColor=000000"
+         alt="Stars github stars">
+  </a>
+<a href="https://github.com/jdecorte-be/philosophers/network/members">
+    <img src="https://img.shields.io/badge/Forks-github%20forks-blue?logo=github&logoColor=white&labelColor=000000"
+         alt="Forks github forks">
+  </a>
+</p>
+
+<p align="center">
+<a href="https://github.com/jdecorte-be/philosophers">
+    <img src="https://img.shields.io/badge/Size-github%20repo%20size-informational?logo=github&logoColor=white&labelColor=000000"
+         alt="Size github repo size">
+  </a>
+  <a href="https://github.com/jdecorte-be/philosophers">
+    <img src="https://img.shields.io/badge/topic-aligncenter-66D9EF?logo=github&logoColor=white&labelColor=000000"
+         alt="philosophers aligncenter">
+  </a>
+  <a href="https://github.com/jdecorte-be/philosophers">
+    <img src="https://img.shields.io/badge/topic-c-66D9EF?logo=github&logoColor=white&labelColor=000000"
+         alt="philosophers c">
+  </a>
+  <a href="https://github.com/jdecorte-be/philosophers">
+    <img src="https://img.shields.io/badge/topic-h1-66D9EF?logo=github&logoColor=white&labelColor=000000"
+         alt="philosophers h1">
+  </a>
+  <a href="https://github.com/jdecorte-be/philosophers/stargazers">
+    <img src="https://img.shields.io/github/stars/jdecorte-be/philosophers?logo=star&logoColor=white&labelColor=000000&color=E6DB74"
+         alt="philosophers stars">
+  </a>
+  <a href="https://github.com/jdecorte-be/philosophers/network/members">
+    <img src="https://img.shields.io/github/forks/jdecorte-be/philosophers?logo=github&logoColor=white&labelColor=000000&color=66D9EF"
+         alt="philosophers forks">
+  </a>
+</p>
+<p align="center">
+  <a href="#introduction">Introduction</a> •
+  <a href="#installation">Installation 🖥</a> •
+  <a href="#tips-project">Tips project</a> •
+  <a href="#project-documentation">Project documentation 📚</a>
+</p>
+</header>
 
 <p align="center">
 	<b><i>Basics of process threading, and how work on the same memory space.</i></b><br>
@@ -70,4 +130,3 @@ __exemple :__
 __*[Semaphore EN video](https://www.youtube.com/watch?v=ukM_zzrIeXs)*__
 
 __*[Fork explain in FR](https://www.commentcamarche.net/faq/10611-que-fait-un-fork)*__ __*or*__ __*[Fork Wiki EN](https://en.wikipedia.org/wiki/Fork_(system_call))*__
-
