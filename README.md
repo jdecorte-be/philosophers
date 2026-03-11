@@ -6,44 +6,40 @@
 </h1>
 
 <p align="center">
-  <h1 align="center"> is a C project focused on philosophers, h1, aligncenter.
+  Philosophers is a C project focused on philosophers.
 </p>
 
 <p align="center">
-<a href="https://github.com/jdecorte-be/philosophers/actions/workflows/c-cpp.yml">
-    <img src="https://img.shields.io/badge/build-passing-238636?logo=githubactions&logoColor=white&labelColor=000000"
-         alt="build passing">
-  </a>
 <a href="https://github.com/jdecorte-be/philosophers">
-    <img src="https://img.shields.io/badge/language-C-A8B9CC?logo=c&logoColor=white&labelColor=000000"
-         alt="language C">
+    <img src="https://img.shields.io/badge/Language-C-00599C?logo=c&logoColor=white&labelColor=000000"
+         alt="Language C">
+  </a>
+<a href="https://github.com/jdecorte-be/philosophers/actions/workflows/c-cpp.yml">
+    <img src="https://img.shields.io/badge/Build-passing-success?logo=githubactions&logoColor=white&labelColor=000000"
+         alt="Build passing">
   </a>
 <a href="https://github.com/jdecorte-be/philosophers/stargazers">
-    <img src="https://img.shields.io/badge/stars-0-yellow?logo=github&logoColor=white&labelColor=000000"
-         alt="stars 0">
+    <img src="https://img.shields.io/badge/Stars-GitHub%20Stars-yellow?logo=github&logoColor=white&labelColor=000000"
+         alt="Stars GitHub Stars">
   </a>
 <a href="https://github.com/jdecorte-be/philosophers/network/members">
-    <img src="https://img.shields.io/badge/forks-0-blue?logo=github&logoColor=white&labelColor=000000"
-         alt="forks 0">
+    <img src="https://img.shields.io/badge/Forks-GitHub%20Forks-blue?logo=github&logoColor=white&labelColor=000000"
+         alt="Forks GitHub Forks">
   </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/jdecorte-be/philosophers/issues">
-    <img src="https://img.shields.io/badge/issues-0-green?logo=github&logoColor=white&labelColor=000000"
-         alt="issues 0">
-  </a>
-  <a href="https://github.com/jdecorte-be/philosophers">
-    <img src="https://img.shields.io/badge/topic-aligncenter-66D9EF?logo=github&logoColor=white&labelColor=000000"
-         alt="philosophers aligncenter">
+<a href="https://github.com/jdecorte-be/philosophers/commits/main">
+    <img src="https://img.shields.io/badge/Last%20Commit-dynamic-informational?logo=git&logoColor=white&labelColor=000000"
+         alt="Last Commit dynamic">
   </a>
   <a href="https://github.com/jdecorte-be/philosophers">
     <img src="https://img.shields.io/badge/topic-c-66D9EF?logo=github&logoColor=white&labelColor=000000"
          alt="philosophers c">
   </a>
   <a href="https://github.com/jdecorte-be/philosophers">
-    <img src="https://img.shields.io/badge/topic-h1-66D9EF?logo=github&logoColor=white&labelColor=000000"
-         alt="philosophers h1">
+    <img src="https://img.shields.io/badge/topic-philosophers-66D9EF?logo=github&logoColor=white&labelColor=000000"
+         alt="philosophers philosophers">
   </a>
   <a href="https://github.com/jdecorte-be/philosophers/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-GPL--3.0-AE81FF?labelColor=000000"
@@ -52,6 +48,10 @@
   <a href="https://github.com/jdecorte-be/philosophers/stargazers">
     <img src="https://img.shields.io/github/stars/jdecorte-be/philosophers?logo=star&logoColor=white&labelColor=000000&color=E6DB74"
          alt="philosophers stars">
+  </a>
+  <a href="https://github.com/jdecorte-be/philosophers/network/members">
+    <img src="https://img.shields.io/github/forks/jdecorte-be/philosophers?logo=github&logoColor=white&labelColor=000000&color=66D9EF"
+         alt="philosophers forks">
   </a>
 </p>
 <p align="center">
